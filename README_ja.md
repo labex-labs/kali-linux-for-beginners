@@ -32,20 +32,20 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                                             | 難易度   | 練習                                                                                                                      |
 |----------------|------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 Kali Linux 環境の設定                                         | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kali-setting-up-your-kali-linux-environment-552195'>ラボを開始</a> |
-|             02 | 🎯 Kali Linux のバージョン確認                                   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kali-verify-kali-linux-version-552268'>チャレンジを開始</a>        |
-|             03 | 📖 Kali でのファイルのナビゲートと管理                           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kali-navigating-and-managing-files-in-kali-552194'>ラボを開始</a>  |
-|             04 | 🎯 ツールディレクトリ構造の構築 (Build Tool Directory Structure) | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kali-build-tool-directory-structure-552274'>チャレンジを開始</a>   |
-|             05 | 📖 Kali Linux における基本ネットワークツール                     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kali-basic-networking-tools-in-kali-552191'>ラボを開始</a>         |
-|             06 | 🎯 Nmap を使用したネットワークポートのスキャン                   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kali-scan-network-ports-with-nmap-552280'>チャレンジを開始</a>     |
-|             07 | 📖 Kali Linux のセキュリティツールを探索する                     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kali-exploring-kali-s-security-tools-552192'>ラボを開始</a>        |
-|             08 | 🎯 Metasploit コンソールを起動する                               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kali-start-metasploit-console-552287'>チャレンジを開始</a>         |
-|             09 | 📖 Kali でのユーザーとシステムの管理                             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kali-managing-users-and-system-in-kali-552193'>ラボを開始</a>      |
-|             10 | 🎯 Kali Linux でのユーザーアカウントの作成                       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kali-create-user-account-in-kali-552291'>チャレンジを開始</a>      |
+|             01 | 📖 Kali Linux 環境の設定                                         | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-setting-up-your-kali-linux-environment-552195'>ラボを開始</a> |
+|             02 | 🎯 Kali Linux のバージョン確認                                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-verify-kali-linux-version-552268'>チャレンジを開始</a>        |
+|             03 | 📖 Kali でのファイルのナビゲートと管理                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-navigating-and-managing-files-in-kali-552194'>ラボを開始</a>  |
+|             04 | 🎯 ツールディレクトリ構造の構築 (Build Tool Directory Structure) | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-build-tool-directory-structure-552274'>チャレンジを開始</a>   |
+|             05 | 📖 Kali Linux における基本ネットワークツール                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-basic-networking-tools-in-kali-552191'>ラボを開始</a>         |
+|             06 | 🎯 Nmap を使用したネットワークポートのスキャン                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-scan-network-ports-with-nmap-552280'>チャレンジを開始</a>     |
+|             07 | 📖 Kali Linux のセキュリティツールを探索する                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-exploring-kali-s-security-tools-552192'>ラボを開始</a>        |
+|             08 | 🎯 Metasploit コンソールを起動する                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-start-metasploit-console-552287'>チャレンジを開始</a>         |
+|             09 | 📖 Kali でのユーザーとシステムの管理                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-managing-users-and-system-in-kali-552193'>ラボを開始</a>      |
+|             10 | 🎯 Kali Linux でのユーザーアカウントの作成                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kali-create-user-account-in-kali-552291'>チャレンジを開始</a>      |
 
 ## その他
 
-- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
+- 🔗 [Cybersecurity プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity 無料チュートリアル](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
