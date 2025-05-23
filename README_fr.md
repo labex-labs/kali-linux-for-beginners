@@ -30,22 +30,22 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Exercices
 
-|   Index | Nom                                                 | Difficulté   | Pratique                                                                                                                        |
-|---------|-----------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Configuration de votre environnement Kali Linux  | ★★☆          | <a target='_blank' href='https://labex.io/fr/tutorials/kali-setting-up-your-kali-linux-environment-552195'>Commencer le Lab</a> |
-|      02 | 🎯 Vérifier la version de Kali Linux                | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/kali-verify-kali-linux-version-552268'>Commencer le Défi</a>             |
-|      03 | 📖 Navigation et Gestion des Fichiers dans Kali     | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/kali-navigating-and-managing-files-in-kali-552194'>Commencer le Lab</a>  |
-|      04 | 🎯 Construire une structure de répertoire d'outils  | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/kali-build-tool-directory-structure-552274'>Commencer le Défi</a>        |
-|      05 | 📖 Outils de base de réseau dans Kali               | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/kali-basic-networking-tools-in-kali-552191'>Commencer le Lab</a>         |
-|      06 | 🎯 Scanner les ports réseau avec Nmap               | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/kali-scan-network-ports-with-nmap-552280'>Commencer le Défi</a>          |
-|      07 | 📖 Explorer les outils de sécurité de Kali          | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/kali-exploring-kali-s-security-tools-552192'>Commencer le Lab</a>        |
-|      08 | 🎯 Démarrer la console Metasploit                   | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/kali-start-metasploit-console-552287'>Commencer le Défi</a>              |
-|      09 | 📖 Gestion des utilisateurs et du système dans Kali | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/kali-managing-users-and-system-in-kali-552193'>Commencer le Lab</a>      |
-|      10 | 🎯 Créer un compte utilisateur dans Kali            | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/kali-create-user-account-in-kali-552291'>Commencer le Défi</a>           |
+|   Index | Nom                                                 | Difficulté    | Pratique                                                                                                                        |
+|---------|-----------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Configuration de votre environnement Kali Linux  | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/kali-setting-up-your-kali-linux-environment-552195'>Commencer le Lab</a> |
+|      02 | 🎯 Vérifier la version de Kali Linux                | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/kali-verify-kali-linux-version-552268'>Commencer le Défi</a>             |
+|      03 | 📖 Navigation et Gestion des Fichiers dans Kali     | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/kali-navigating-and-managing-files-in-kali-552194'>Commencer le Lab</a>  |
+|      04 | 🎯 Construire une structure de répertoire d'outils  | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/kali-build-tool-directory-structure-552274'>Commencer le Défi</a>        |
+|      05 | 📖 Outils de base de réseau dans Kali               | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/kali-basic-networking-tools-in-kali-552191'>Commencer le Lab</a>         |
+|      06 | 🎯 Scanner les ports réseau avec Nmap               | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/kali-scan-network-ports-with-nmap-552280'>Commencer le Défi</a>          |
+|      07 | 📖 Explorer les outils de sécurité de Kali          | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/kali-exploring-kali-s-security-tools-552192'>Commencer le Lab</a>        |
+|      08 | 🎯 Démarrer la console Metasploit                   | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/kali-start-metasploit-console-552287'>Commencer le Défi</a>              |
+|      09 | 📖 Gestion des utilisateurs et du système dans Kali | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/kali-managing-users-and-system-in-kali-552193'>Commencer le Lab</a>      |
+|      10 | 🎯 Créer un compte utilisateur dans Kali            | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/kali-create-user-account-in-kali-552291'>Commencer le Défi</a>           |
 
 ## Plus
 
-- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
+- 🔗 [Cybersecurity Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity Tutoriels Gratuits](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
