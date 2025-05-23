@@ -32,20 +32,20 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                               | 난이도   | 연습                                                                                                                     |
 |----------|------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Kali Linux 환경 설정하기        | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kali-setting-up-your-kali-linux-environment-552195'>실습 시작</a> |
-|       02 | 🎯 Kali Linux 버전 확인            | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kali-verify-kali-linux-version-552268'>도전 시작</a>              |
-|       03 | 📖 Kali 에서 파일 탐색 및 관리     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kali-navigating-and-managing-files-in-kali-552194'>실습 시작</a>  |
-|       04 | 🎯 도구 디렉토리 구조 구축         | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kali-build-tool-directory-structure-552274'>도전 시작</a>         |
-|       05 | 📖 Kali 리눅스 기본 네트워킹 도구  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kali-basic-networking-tools-in-kali-552191'>실습 시작</a>         |
-|       06 | 🎯 Nmap 으로 네트워크 포트 스캔    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kali-scan-network-ports-with-nmap-552280'>도전 시작</a>           |
-|       07 | 📖 Kali 의 보안 도구 탐구          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kali-exploring-kali-s-security-tools-552192'>실습 시작</a>        |
-|       08 | 🎯 Metasploit 콘솔 시작            | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kali-start-metasploit-console-552287'>도전 시작</a>               |
-|       09 | 📖 Kali 에서 사용자 및 시스템 관리 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kali-managing-users-and-system-in-kali-552193'>실습 시작</a>      |
-|       10 | 🎯 Kali 에서 사용자 계정 생성      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kali-create-user-account-in-kali-552291'>도전 시작</a>            |
+|       01 | 📖 Kali Linux 환경 설정하기        | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-setting-up-your-kali-linux-environment-552195'>실습 시작</a> |
+|       02 | 🎯 Kali Linux 버전 확인            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-verify-kali-linux-version-552268'>도전 시작</a>              |
+|       03 | 📖 Kali 에서 파일 탐색 및 관리     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-navigating-and-managing-files-in-kali-552194'>실습 시작</a>  |
+|       04 | 🎯 도구 디렉토리 구조 구축         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-build-tool-directory-structure-552274'>도전 시작</a>         |
+|       05 | 📖 Kali 리눅스 기본 네트워킹 도구  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-basic-networking-tools-in-kali-552191'>실습 시작</a>         |
+|       06 | 🎯 Nmap 으로 네트워크 포트 스캔    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-scan-network-ports-with-nmap-552280'>도전 시작</a>           |
+|       07 | 📖 Kali 의 보안 도구 탐구          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-exploring-kali-s-security-tools-552192'>실습 시작</a>        |
+|       08 | 🎯 Metasploit 콘솔 시작            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-start-metasploit-console-552287'>도전 시작</a>               |
+|       09 | 📖 Kali 에서 사용자 및 시스템 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-managing-users-and-system-in-kali-552193'>실습 시작</a>      |
+|       10 | 🎯 Kali 에서 사용자 계정 생성      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kali-create-user-account-in-kali-552291'>도전 시작</a>            |
 
 ## 더 보기
 
-- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
+- 🔗 [Cybersecurity 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity 무료 튜토리얼](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
