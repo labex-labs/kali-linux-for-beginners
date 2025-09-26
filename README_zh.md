@@ -16,18 +16,25 @@
 
 ## 练习
 
-|   序号 | 名称                                 | 难度   | 练习                                                                                                                    |
-|--------|--------------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 🔵 设置你的 Kali Linux 环境       | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-setting-up-your-kali-linux-environment-552195'>开始实验</a> |
-|     02 | 🎯 🔵 验证 Kali Linux 版本           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-verify-kali-linux-version-552268'>开始挑战</a>              |
-|     03 | 📖 🔵 在 Kali Linux 中导航和管理文件 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-navigating-and-managing-files-in-kali-552194'>开始实验</a>  |
-|     04 | 🎯 🔵 构建工具目录结构               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-build-tool-directory-structure-552274'>开始挑战</a>         |
-|     05 | 📖 🔵 Kali 中的基础网络工具          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-basic-networking-tools-in-kali-552191'>开始实验</a>         |
-|     06 | 🎯 🔵 使用 Nmap 扫描网络端口         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-scan-network-ports-with-nmap-552280'>开始挑战</a>           |
-|     07 | 📖 🔵 探索 Kali 的安全工具           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-exploring-kali-s-security-tools-552192'>开始实验</a>        |
-|     08 | 🎯 🔵 启动 Metasploit 控制台         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-start-metasploit-console-552287'>开始挑战</a>               |
-|     09 | 📖 🔵 在 Kali 中管理用户和系统       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-managing-users-and-system-in-kali-552193'>开始实验</a>      |
-|     10 | 🎯 🔵 在 Kali 中创建用户帐户         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-create-user-account-in-kali-552291'>开始挑战</a>            |
+|   序号 | 名称                                     | 难度   | 练习                                                                                                                       |
+|--------|------------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------|
+|     01 | 📖 🆓 设置你的 Kali Linux 环境           | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-setting-up-your-kali-linux-environment-552195'>开始实验</a>    |
+|     02 | 🎯 🆓 验证 Kali Linux 版本               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-verify-kali-linux-version-552268'>开始挑战</a>                 |
+|     03 | 📖  在 Kali Linux 中导航和管理文件       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-navigating-and-managing-files-in-kali-552194'>开始实验</a>     |
+|     04 | 🎯  构建工具目录结构                     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-build-tool-directory-structure-552274'>开始挑战</a>            |
+|     05 | 📖  Kali 中的基础网络工具                | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-basic-networking-tools-in-kali-552191'>开始实验</a>            |
+|     06 | 🎯  使用 Nmap 扫描网络端口               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-scan-network-ports-with-nmap-552280'>开始挑战</a>              |
+|     07 | 📖  探索 Kali 的安全工具                 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-exploring-kali-s-security-tools-552192'>开始实验</a>           |
+|     08 | 🎯  启动 Metasploit 控制台               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-start-metasploit-console-552287'>开始挑战</a>                  |
+|     09 | 📖  在 Kali 中管理用户和系统             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-managing-users-and-system-in-kali-552193'>开始实验</a>         |
+|     10 | 🎯  在 Kali 中创建用户帐户               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-create-user-account-in-kali-552291'>开始挑战</a>               |
+|     11 | 📖 🆓 使用 Nmap 和 DNS 进行 Kali 侦察    | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>开始实验</a>     |
+|     12 | 📖 🆓 使用 Nikto 进行 Kali 漏洞扫描      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>开始实验</a>    |
+|     13 | 📖  使用 John 在 Kali 中进行密码破解     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-kali-password-cracking-with-john-552297'>开始实验</a>          |
+|     14 | 📖 🆓 Kali SQL 注入与 sqlmap             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-kali-sql-injection-with-sqlmap-552300'>开始实验</a>            |
+|     15 | 📖 🆓 使用 Metasploit 进行 Kali 漏洞利用 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-kali-exploitation-with-metasploit-552293'>开始实验</a>         |
+|     16 | 📖  使用 Hydra 进行 Kali 密码攻击        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-kali-password-attacks-with-hydra-552296'>开始实验</a>          |
+|     17 | 📖  使用 iptables 配置 Kali 防火墙       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/kali-kali-firewall-configuration-with-iptables-552294'>开始实验</a> |
 
 ## 学习环境
 
