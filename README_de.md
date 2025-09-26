@@ -16,18 +16,25 @@ In diesem Kurs lernen Sie die Grundlagen von Kali Linux kennen. Entdecken Sie gr
 
 ## Übungen
 
-|   Index | Name                                               | Schwierigkeit   | Übung                                                                                                                        |
-|---------|----------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🔵 Einrichtung Ihrer Kali Linux-Umgebung        | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/kali-setting-up-your-kali-linux-environment-552195'>Labor Starten</a> |
-|      02 | 🎯 🔵 Kali Linux Version überprüfen                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-verify-kali-linux-version-552268'>Challenge Starten</a>          |
-|      03 | 📖 🔵 Navigieren und Verwalten von Dateien in Kali | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-navigating-and-managing-files-in-kali-552194'>Labor Starten</a>  |
-|      04 | 🎯 🔵 Erstellung der Tool-Verzeichnisstruktur      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-build-tool-directory-structure-552274'>Challenge Starten</a>     |
-|      05 | 📖 🔵 Grundlegende Netzwerk-Tools in Kali          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-basic-networking-tools-in-kali-552191'>Labor Starten</a>         |
-|      06 | 🎯 🔵 Netzwerk-Ports mit Nmap scannen              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-scan-network-ports-with-nmap-552280'>Challenge Starten</a>       |
-|      07 | 📖 🔵 Erkundung der Sicherheitswerkzeuge von Kali  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-exploring-kali-s-security-tools-552192'>Labor Starten</a>        |
-|      08 | 🎯 🔵 Metasploit-Konsole starten                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-start-metasploit-console-552287'>Challenge Starten</a>           |
-|      09 | 📖 🔵 Benutzer- und Systemverwaltung in Kali       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-managing-users-and-system-in-kali-552193'>Labor Starten</a>      |
-|      10 | 🎯 🔵 Benutzerkonto in Kali erstellen              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-create-user-account-in-kali-552291'>Challenge Starten</a>        |
+|   Index | Name                                             | Schwierigkeit   | Übung                                                                                                                           |
+|---------|--------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🆓 Einrichtung Ihrer Kali Linux-Umgebung      | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/kali-setting-up-your-kali-linux-environment-552195'>Labor Starten</a>    |
+|      02 | 🎯 🆓 Kali Linux Version überprüfen              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-verify-kali-linux-version-552268'>Challenge Starten</a>             |
+|      03 | 📖  Navigieren und Verwalten von Dateien in Kali | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-navigating-and-managing-files-in-kali-552194'>Labor Starten</a>     |
+|      04 | 🎯  Erstellung der Tool-Verzeichnisstruktur      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-build-tool-directory-structure-552274'>Challenge Starten</a>        |
+|      05 | 📖  Grundlegende Netzwerk-Tools in Kali          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-basic-networking-tools-in-kali-552191'>Labor Starten</a>            |
+|      06 | 🎯  Netzwerk-Ports mit Nmap scannen              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-scan-network-ports-with-nmap-552280'>Challenge Starten</a>          |
+|      07 | 📖  Erkundung der Sicherheitswerkzeuge von Kali  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-exploring-kali-s-security-tools-552192'>Labor Starten</a>           |
+|      08 | 🎯  Metasploit-Konsole starten                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-start-metasploit-console-552287'>Challenge Starten</a>              |
+|      09 | 📖  Benutzer- und Systemverwaltung in Kali       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-managing-users-and-system-in-kali-552193'>Labor Starten</a>         |
+|      10 | 🎯  Benutzerkonto in Kali erstellen              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-create-user-account-in-kali-552291'>Challenge Starten</a>           |
+|      11 | 📖 🆓 Kali Aufklärung mit Nmap und DNS           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-kali-reconnaissance-with-nmap-and-dns-552298'>Labor Starten</a>     |
+|      12 | 📖 🆓 Kali Schwachstellenscan mit Nikto          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-kali-vulnerability-scanning-with-nikto-552301'>Labor Starten</a>    |
+|      13 | 📖  Passwortknacken mit John unter Kali          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-kali-password-cracking-with-john-552297'>Labor Starten</a>          |
+|      14 | 📖 🆓 Kali SQL-Injection mit sqlmap              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-kali-sql-injection-with-sqlmap-552300'>Labor Starten</a>            |
+|      15 | 📖 🆓 Kali-Exploitation mit Metasploit           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-kali-exploitation-with-metasploit-552293'>Labor Starten</a>         |
+|      16 | 📖  Kali-Passwortangriffe mit Hydra              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-kali-password-attacks-with-hydra-552296'>Labor Starten</a>          |
+|      17 | 📖  Kali Firewall-Konfiguration mit iptables     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/kali-kali-firewall-configuration-with-iptables-552294'>Labor Starten</a> |
 
 ## Umgebung
 
